@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumit-Upadhya-y
-- 👀 I’m interested in Coding and web dev
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in Data Science and web dev
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on new website building teams
 - 📫 How to reach me upadhyaysumit815@gmail.com
 
