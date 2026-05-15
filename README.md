@@ -34,7 +34,7 @@ class SumitUpadhyay:
         self.education  = "M.Sc. Data Science @ Universität Trier (2026–present)"
         self.experience = "1.5+ years professional experience"
         self.tools      = ["SQL", "Python", "Power BI", "Tableau", "PostgreSQL", "Excel"]
-        self.languages  = ["English B2", "German A2", "Hindi (Native)", "Marathi (Native)"]
+        self.languages  = ["English C1", "German A1", "Hindi (Native)"]
         self.open_to    = "Werkstudent · Junior Analyst · Data roles in Germany"
 
     def say_hi(self):
