@@ -206,11 +206,6 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Upadhya-y&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2e8f0&card_width=420)
-
-</div>
 
 ---
 
